@@ -1,0 +1,2 @@
+[functions.delete-client]
+verify_jwt = true

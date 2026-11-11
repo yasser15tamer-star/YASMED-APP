@@ -1,0 +1,13 @@
+{
+  "projectId": "70206040",
+  "functions": {
+    "create-employee": {
+      "hasChanged": false,
+      "hash": "6e2dfacc18309d7b495a43375e10085e745448e5b412a9671a1f678fd7cc6135"
+    },
+    "delete-client": {
+      "hasChanged": false,
+      "hash": "0dda62b3f4643833d9a7093b367a70f49f2858fcae0712563614da9ed0ef8f79"
+    }
+  }
+}
